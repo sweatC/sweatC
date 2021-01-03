@@ -1,4 +1,4 @@
-[![Ilya Novohatskyi homepage](banner.png)](https://twitter.com/ilyanovohatskyi)
+![Ilya Novohatskyi homepage](banner.png)
 ## Hi everyone, my name is Ilya and I'm a Front-end Developer from Ukraine.
 
 :computer: Currently working on something cool and always ready to take on challenging tasks!
