@@ -10,11 +10,15 @@
 
 ### My latest projects:
 
+https://marginswap.finance/ - the decentralized trading protocol that natively supports spot and cross margin swapping of crypto assets. Worked on design makeover, connected the APIs and built new components.
+
+https://www.rapidrobotics.com/ - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
+
 https://decision.ai/ - the complex AI-powered data science risk management system. Worked on website, and platform frontend.
 
 https://mobilecoach.com/ - the enterprise-grade chatbot platform. Worked on the interface of the app as a front-end developer for the last 3 years.
 
-http://atomic.vc/ - the adaptive website for a venture fund that founds companies made on Gatsby.js
+http://atomic.vc/ - the adaptive Gatsby.js website for a venture fund that founds companies.
 
 ### My code samples:
 
