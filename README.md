@@ -18,7 +18,7 @@ https://decision.ai/ - the complex AI-powered data science risk management syste
 
 https://mobilecoach.com/ - the enterprise-grade chatbot platform. Worked on the interface of the app as a front-end developer for the last 3 years.
 
-http://atomic.vc/ - the adaptive Gatsby.js website for a venture fund that founds companies.
+http://atomic.vc/ - the adaptive Gatsby.js website for a venture company that funds cool startups. Worked on frontend and controlled the delivery of other teams.
 
 ### My code samples:
 
