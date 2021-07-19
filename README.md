@@ -18,9 +18,9 @@ https://decision.ai/ - the complex AI-powered data science risk management syste
 
 https://mobilecoach.com/ - the enterprise-grade chatbot platform. Worked on the interface of the app as a front-end developer for the last 3 years.
 
-http://atomic.vc/ - the adaptive Gatsby.js website for a venture company that funds cool startups. Worked on frontend and controlled the delivery of other teams.
+https://atomic.vc/ - the adaptive Gatsby.js website for a venture company that funds cool startups. Worked on frontend and controlled the delivery of other teams.
 
-http://hireflix.com - the async video interviews platform. Delivered the fresh design and did full website makeover using Gatsby.js.
+https://hireflix.com - the async video interviews platform. Delivered the fresh design and did full website makeover using Gatsby.js.
 
 https://theliftedapp.com - the huge educational platform with analytics, student data collection, instructional planning, and family communication. Dealt with platform maintenance, bug fixes, refactoring, as well as delivered new features.
 
