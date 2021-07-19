@@ -20,6 +20,10 @@ https://mobilecoach.com/ - the enterprise-grade chatbot platform. Worked on the 
 
 http://atomic.vc/ - the adaptive Gatsby.js website for a venture company that funds cool startups. Worked on frontend and controlled the delivery of other teams.
 
+http://hireflix.com - the async video interviews platform. Delivered the fresh design and did full website makeover using Gatsby.js.
+
+https://theliftedapp.com - the huge educational platform with analytics, student data collection, instructional planning, and family communication. Dealt with platform maintenance, bug fixes, refactoring, as well as delivered new features.
+
 ### My code samples:
 
 https://gist.github.com/sweatC/7fee1eeff3a12d90dca6c017b108a8cd
